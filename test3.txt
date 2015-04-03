@@ -1,3 +1,4 @@
 This is a new file on master after v0.4
 adding a line
 line 2
+line 3
